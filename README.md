@@ -1,4 +1,5 @@
 # Проекты
+## Retail Sales Analysis
 ### 1. [ABC-XYZ анализ ассортимента](https://github.com/e-afanaseva/data_analysis/blob/main/Retail%20Sales%20Analysis/notebooks/Assortment%20ABC-XYZ%20Analysis.ipynb)
 Анализ ассортимента с использованием ABC-XYZ подхода для:
 - выявления категорий, формирующих основную выручку
@@ -9,4 +10,4 @@
 - выявлено, что значительная часть оборота зависит от переменных сегментов, что создаёт риски в управлении запасами и прогнозировании
 - сформированы рекомендации по управлению ассортиментом, запасами и приоритизации категорий.
 
-### 2. Customer Analysis (In work)
+### 2. Customer Analysis (In progress)
