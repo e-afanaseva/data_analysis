@@ -2,7 +2,7 @@
 ## Retail Sales Analysis
 Проект, направленный на исследование эффективности продаж книжного издательства в двух каналах: маркетплейс и собственный интернет-магазин.
 
-### 1. [Overview]
+### 1. [Overview](https://github.com/e-afanaseva/data_analysis/blob/main/Retail%20Sales%20Analysis/notebooks/Overview.ipynb)
 - бизнес-обзор (revenue, margin, AOV, distribution analysis)
 - анализ сезонности и динамики продаж
 - распределение заказов и маржи
