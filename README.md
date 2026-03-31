@@ -1,6 +1,14 @@
 # Проекты
 ## Retail Sales Analysis
-### 1. [ABC-XYZ анализ ассортимента](https://github.com/e-afanaseva/data_analysis/blob/main/Retail%20Sales%20Analysis/notebooks/Assortment%20ABC-XYZ%20Analysis.ipynb)
+Проект, направленный на исследование эффективности продаж книжного издательства в двух каналах: маркетплейс и собственный интернет-магазин.
+
+### 1. [Overview]
+- бизнес-обзор (revenue, margin, AOV, distribution analysis)
+- анализ сезонности и динамики продаж
+- распределение заказов и маржи
+- сравнение каналов (объем vs эффективность)
+
+### 2. [ABC-XYZ анализ ассортимента](https://github.com/e-afanaseva/data_analysis/blob/main/Retail%20Sales%20Analysis/notebooks/Assortment%20ABC-XYZ%20Analysis.ipynb)
 Анализ ассортимента с использованием ABC-XYZ подхода для:
 - выявления категорий, формирующих основную выручку
 - оценки стабильности спроса
